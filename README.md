@@ -24,3 +24,8 @@ For this project, we use a real dataset (such as MovieLens) containing user rati
 
 *OUTPUT*
 
+<img width="158" height="124" alt="Image" src="https://github.com/user-attachments/assets/d6423ed2-ab20-464c-9846-a73390239ecc" />
+
+<img width="427" height="686" alt="Image" src="https://github.com/user-attachments/assets/459b46e9-ad1f-4791-a4fc-7fb8c4f8a8d5" />
+
+<img width="412" height="442" alt="Image" src="https://github.com/user-attachments/assets/52fb15c9-4d1a-41dc-8cec-8d20fc8265ea" />
